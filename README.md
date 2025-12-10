@@ -12,3 +12,9 @@ The repo includes Jupyter Notebook (Bank_Loc_Data.ipynb), which executes the fol
 4. Output: Saves the final, filtered dataset of approximately 300 branch records (299 total, 42 BofA) to la_city_ca_fdic_branches.csv.
 
 la_city_ca_fdic_branches.csv is also made part of this repo.
+
+For details about how to use API
+https://api.fdic.gov/banks/docs/
+
+Latitude and Longitude information was added to la_city_ca_fdic_branches.csv using Geoapify (la_city_ca_fdic_branches_lat_long.csv)
+https://www.geoapify.com/tools/geocoding-online/
